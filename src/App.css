@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.myBody{
+  margin: 10%;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-gap: 20px;
+  color:black;
+}
+
+.box {
+  color:black;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 50%;
+  margin: 10px;
+}
